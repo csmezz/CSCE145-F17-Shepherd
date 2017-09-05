@@ -1,10 +1,6 @@
 package Homework;
 import java.util.Scanner;
 
-//part of my cheating:
-import java.util.ArrayList;
-
-
 /*
  * Objective:
  
